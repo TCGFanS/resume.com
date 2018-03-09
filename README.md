@@ -31,7 +31,7 @@
 				<div class="divider"></div>
 				<p class="textstyle1">Boy, let's not talk too much</p>
 				<p>
-					<a href="#" class="textstyle2">emil:373138181@qq.com</a>
+					<a href="#" class="textstyle2">email:373138181@qq.com</a>
 				</p>
 				<p class="textstyle2">tell:17782760350</p>
 				<div class="divider"></div>
