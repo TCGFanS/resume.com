@@ -2,6 +2,10 @@
 
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+		<meta name="apple-mobile-web-app-capable" content="yes"> 
+		<meta name="apple-mobile-web-app-status-bar-style" content="black"> 
+		<meta name="format-detection" content="telephone=no"> 
 		<meta name="description" content="under construction, coming soon template" />
 		<meta name="keywords" content="under construction, coming soon, launch" />
 		<meta name="author" content="Tansh" />
@@ -10,21 +14,6 @@
 		<link rel="stylesheet" media="screen" href="css/style.css" />
 		<script src="js/jquery-1.7.1.min.js" type="text/javascript">
 		</script>
-		<script type="text/javascript">
-    var phoneWidth =  parseInt(window.screen.width);
-    var phoneScale = phoneWidth/640;
-    var ua = navigator.userAgent;
-    if (/Android (\d+\.\d+)/.test(ua)){
-        var version = parseFloat(RegExp.$1);
-        if(version>2.3){
-            document.write(‘<meta name="viewport" content="width=640, minimum-scale = ‘+phoneScale+‘, maximum-scale = ‘+phoneScale+‘, target-densitydpi=device-dpi">‘);
-        }else{
-            document.write(‘<meta name="viewport" content="width=640, target-densitydpi=device-dpi">‘);
-        }
-    } else {
-        document.write(‘<meta name="viewport" content="width=640, user-scalable=no, target-densitydpi=device-dpi">‘);
-    }
-</script>
 	</head>
 
 	<body>
