@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="zh-CN">
 
 	<head>
@@ -82,5 +81,4 @@
 		<script src="js/custom.js" type="text/javascript"></script>
 
 	</body>
-
 </html>
