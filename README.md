@@ -1,37 +1,86 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="zh-CN">
 
-You can use the [editor on GitHub](https://github.com/TCGFanS/resume.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="description" content="under construction, coming soon template" />
+		<meta name="keywords" content="under construction, coming soon, launch" />
+		<meta name="author" content="Tansh" />
+		<link rel="icon" type="image/png" href="images/favicon.png" />
+		<title>很高兴见到你</title>
+		<link rel="stylesheet" media="screen" href="css/style.css" />
+		<script src="js/jquery-1.7.1.min.js" type="text/javascript">
+		</script>
+	</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+	<body>
+		<div id="wrapper">
+			<div id="content">
+				<div class="launch"></div>
+				<div class="divider">
+					<h4>距下个版本还有</h4>
+				</div>
+				<div class="countdown_bg">
+					<div id="defaultCountdown" class="countdown"></div>
+				</div>
+				<div class="divider_small"></div>
+				<h1> 三杯两盏淡酒 <span>怎敌他</span>晚来风急?</h1> 愿你被世界温柔以待。
 
-### Markdown
+				<div class="divider_small"></div>
+				<br class="clear" />
+				<h2><a href="index2.pdf">这里是简历。</a></h2>
+				<div class="divider"></div>
+				<p class="textstyle1">Boy, let's not talk too much</p>
+				<p>
+					<a href="#" class="textstyle2">373138181@qq.com</a>
+				</p>
+				<p class="textstyle2">17782760350</p>
+				<div class="divider"></div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+				<!--social starts-->
+				<ul class="social">
+					<li>
+						<a href="#" class="twitter"></a>
+					</li>
+					<li>
+						<a href="#" class="vimeo"></a>
+					</li>
+					<li>
+						<a href="#" class="skype"></a>
+					</li>
+					<li>
+						<a href="#" class="dribbble"></a>
+					</li>
+					<li>
+						<a href="#" class="facebook"></a>
+					</li>
+					<li>
+						<a href="#" class="pinterest"></a>
+					</li>
+				</ul>
+				<!--social ends-->
 
-```markdown
-Syntax highlighted code block
+			</div>
+			<!--content ends-->
 
-# Header 1
-## Header 2
-### Header 3
+			<!--copyright starts-->
+			<div class="copyright">
+				<p>&copy; Every day discovering something brand new.
+					<a target="_blank" href="https://tcgfans.github.io/resume.com/">come on</a>
+				</p>
+			</div>
+			<!--copyright starts-->
 
-- Bulleted
-- List
+			<div class="clear"></div>
+		</div>
+		<!--wrapper ends-->
 
-1. Numbered
-2. List
+		<!--jqueries required-->
+		<script src="js/jquery.validate.js" type="text/javascript"></script>
+		<script src="js/jquery.form.js" type="text/javascript"></script>
+		<script src="js/countdown.js" type="text/javascript"></script>
+		<script src="js/custom.js" type="text/javascript"></script>
 
-**Bold** and _Italic_ and `Code` text
+	</body>
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TCGFanS/resume.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
